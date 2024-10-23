@@ -1,0 +1,23 @@
+- .env
+- .gitignore
+- app.js
+- calculate.js
+- config
+  - db.js
+- controllers
+  - lecturer.controller.js
+  - student.controller.js
+- index.js
+- models
+  - lecturer.model.js
+  - student.model.js
+- package-lock.json
+- package.json
+- public
+- routes
+  - lecturers.route.js
+  - students.route.js
+- services
+  - lecturers.services.js
+  - students.services.js
+- utils
